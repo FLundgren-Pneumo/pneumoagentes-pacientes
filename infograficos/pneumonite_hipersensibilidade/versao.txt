@@ -1,7 +1,7 @@
 material: pneumonite_hipersensibilidade
 publico: pacientes
 caminho: /infograficos/pneumonite_hipersensibilidade/
-versao: 1.0.0
+versao: 1.1.0
 data: 2026-09-29
 idioma: pt-BR
 status: publicado

@@ -11,3 +11,7 @@ da equipe de saude.
 
 VERSAO 1.0.0 (29/09/2026)
 - Infografico fornecido pelo Dr. Fernando Lundgren; texto transcrito no index.html.
+
+VERSAO 1.1.0 (29/09/2026)
+- Substituido por folha em preto e branco, sem fundos cinza, em uma pagina A4, para impressao.
+- Texto igual ao da versao 1.0.0.
