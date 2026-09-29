@@ -1,0 +1,14 @@
+RINITE: NARIZ SAUDÁVEL, MELHOR RESPIRAÇÃO E QUALIDADE DE VIDA - REFERENCIAS
+Atualizacao: 28 de setembro de 2026
+
+Material educativo para pacientes. Nao substitui a consulta nem a orientacao
+da equipe de saude.
+
+1. Associacao Brasileira de Alergia e Imunologia (ASBAI), Associacao Brasileira de Otorrinolaringologia (ABORL-CCF) e Sociedade Brasileira de Pediatria (SBP). IV Consenso Brasileiro sobre Rinites (2017-2018).
+2. Allergic Rhinitis and its Impact on Asthma (ARIA). Diretrizes atualizadas.
+3. European Position Paper on Rhinosinusitis and Nasal Polyps (EPOS 2020).
+4. Conteudo alinhado ao guia PneumoAgents Rinite (area profissional).
+
+VERSAO 1.0.0 (28/09/2026)
+- Infografico fornecido pelo Dr. Fernando Lundgren; texto transcrito no index.html.
+- Rotulo "seios paranasais" corrigido na figura pelo autor (28/09/2026).

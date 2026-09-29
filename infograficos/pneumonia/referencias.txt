@@ -1,0 +1,12 @@
+PNEUMONIA: RECONHECER, TRATAR E ACOMPANHAR - REFERENCIAS
+Atualizacao: 28 de setembro de 2026
+
+Material educativo para pacientes. Nao substitui a consulta nem a orientacao
+da equipe de saude.
+
+1. Brasil. Ministerio da Saude. Calendario Nacional de Vacinacao 2026 (PNI) e notas tecnicas sobre vacina pneumococica (VPC20) no SUS/CRIE.
+2. Sociedade Brasileira de Imunizacoes (SBIm). Calendarios de Vacinacao 2026-2027 (adulto e idoso). https://sbim.org.br
+3. Conteudo clinico alinhado ao guia PneumoAgents de pneumonia adquirida na comunidade (area profissional).
+
+VERSAO 1.0.0 (28/09/2026)
+- Infografico fornecido pelo Dr. Fernando Lundgren; texto transcrito no index.html.

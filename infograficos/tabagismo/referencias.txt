@@ -1,0 +1,11 @@
+TABAGISMO: PARAR É UM PROCESSO - REFERENCIAS
+Atualizacao: 28 de setembro de 2026
+
+Material educativo para pacientes. Nao substitui a consulta nem a orientacao
+da equipe de saude.
+
+1. Brasil. Ministerio da Saude. Protocolo Clinico e Diretrizes Terapeuticas do Tabagismo (PCDT) e Programa Nacional de Controle do Tabagismo.
+2. Conteudo alinhado ao guia PneumoAgents Tabagismo na APS (area profissional).
+
+VERSAO 1.0.0 (28/09/2026)
+- Infografico fornecido pelo Dr. Fernando Lundgren; texto transcrito no index.html.

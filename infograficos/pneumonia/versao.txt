@@ -1,0 +1,10 @@
+material: pneumonia
+publico: pacientes
+caminho: /infograficos/pneumonia/
+versao: 1.0.0
+data: 2026-09-28
+idioma: pt-BR
+status: publicado
+aviso: Material educativo. Nao substitui a consulta nem a orientacao da equipe de saude.
+arquivos: index.html, infografico.png, infografico.pdf, referencias.txt, versao.txt
+formato: infografico fornecido pelo Dr. Fernando Lundgren em 28/09/2026; texto transcrito no index.html

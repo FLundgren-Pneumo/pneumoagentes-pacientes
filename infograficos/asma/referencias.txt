@@ -1,0 +1,13 @@
+ASMA: RESPIRAR BEM É POSSÍVEL - REFERENCIAS
+Atualizacao: 28 de setembro de 2026
+
+Material educativo para pacientes. Nao substitui a consulta nem a orientacao
+da equipe de saude.
+
+1. Global Initiative for Asthma (GINA). Global Strategy for Asthma Management and Prevention, 2026.
+2. Brasil. Ministerio da Saude. Protocolo Clinico e Diretrizes Terapeuticas da Asma (PCDT).
+3. Sociedade Brasileira de Pneumologia e Tisiologia (SBPT). Recomendacoes para o manejo da asma.
+4. Baseado no guia PneumoAgents Manejo da Asma na APS/SUS, revisado em 2026.
+
+VERSAO 1.0.0 (28/09/2026)
+- Infografico fornecido pelo Dr. Fernando Lundgren; texto transcrito no index.html.
