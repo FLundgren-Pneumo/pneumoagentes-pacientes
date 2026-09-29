@@ -1,0 +1,13 @@
+PNEUMONITE DE HIPERSENSIBILIDADE - REFERENCIAS
+Atualizacao: 29 de setembro de 2026
+
+Material educativo para pacientes. Nao substitui a consulta nem a orientacao
+da equipe de saude.
+
+1. American Thoracic Society, Japanese Respiratory Society e Asociacion Latinoamericana de Torax (ATS/JRS/ALAT). Diagnosis of Hypersensitivity Pneumonitis in Adults, 2020.
+2. American College of Chest Physicians (CHEST). Diretriz sobre pneumonite de hipersensibilidade, 2021.
+3. European Respiratory Review, 2022.
+4. Fontes impressas no infografico fornecido em 29/09/2026.
+
+VERSAO 1.0.0 (29/09/2026)
+- Infografico fornecido pelo Dr. Fernando Lundgren; texto transcrito no index.html.

@@ -1,0 +1,13 @@
+DPOC: RESPIRAR MELHOR HOJE - REFERENCIAS
+Atualizacao: 29 de setembro de 2026
+
+Material educativo para pacientes. Nao substitui a consulta nem a orientacao
+da equipe de saude.
+
+1. Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global Strategy for Prevention, Diagnosis and Management of COPD, 2026.
+2. Brasil. Ministerio da Saude. Calendario Nacional de Vacinacao 2026.
+3. Escala mMRC (modified Medical Research Council) de dispneia, graus 0 a 4, conforme impresso no infografico.
+4. Fontes impressas no infografico fornecido em 29/09/2026.
+
+VERSAO 1.0.0 (29/09/2026)
+- Infografico fornecido pelo Dr. Fernando Lundgren; texto transcrito no index.html.

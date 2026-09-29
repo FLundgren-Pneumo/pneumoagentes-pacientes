@@ -1,0 +1,10 @@
+material: dpoc
+publico: pacientes
+caminho: /infograficos/dpoc/
+versao: 1.0.0
+data: 2026-09-29
+idioma: pt-BR
+status: publicado
+aviso: Material educativo. Nao substitui a consulta nem a orientacao da equipe de saude.
+arquivos: index.html, infografico-1.png, infografico-2.png, infografico.pdf, referencias.txt, versao.txt
+formato: infografico fornecido pelo Dr. Fernando Lundgren em 29/09/2026; texto transcrito no index.html
