@@ -1,0 +1,8 @@
+material: respiracao-nasal-bucal
+publico: pacientes
+versao: 1.0.0
+data: 2026-11-07
+idioma: pt-BR
+status: publicado
+arquivos: index.html, infografico.jpg, infografico.pdf, versao.txt
+formato: infografico em imagem fornecido pelo Dr. Fernando Lundgren em 07/11/2026; texto transcrito no index.html
