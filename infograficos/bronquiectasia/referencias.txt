@@ -44,3 +44,8 @@ NOTA EDITORIAL
   e nao 65(6); o titulo correto da diretriz CHEST 2026 e "An American
   College of Chest Physicians Clinical Practice Guideline"; o material da
   ATS confirmado e de 2017 (nao foi localizada versao "atualizada em 2024").
+
+VERSAO 2.0.0 (07/11/2026)
+- Novo infografico em imagem fornecido pelo Dr. Fernando Lundgren, com texto
+  transcrito na pagina. As referencias citadas no rodape da imagem sao as
+  indicadas pelo autor.
