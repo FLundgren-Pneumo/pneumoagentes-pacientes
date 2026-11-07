@@ -2,12 +2,12 @@ material: lavagem-nasal
 publico: pacientes
 populacao: adultos e cuidadores
 caminho: /biblioteca/infograficos/pacientes/lavagem_nasal/
-versao: 2.0.0
-data: 2026-09-28
+versao: 2.1.0
+data: 2026-11-07
 idioma: pt-BR
 status: publicado
 aviso: Material educativo. Nao substitui a consulta nem a orientacao da equipe de saude.
 arquivos: index.html, infografico.png, infografico.pdf, referencias.txt, versao.txt
 exportacao: botao de impressao/PDF no index.html e PDF pronto para download
 elementos_obrigatorios: aviso educacional e botao Voltar ao PneumoAgents
-formato: infografico em imagem, preto e branco para impressao, fornecido pelo Dr. Fernando Lundgren em 28/09/2026; texto transcrito no index.html
+formato: infografico em imagem, preto e branco para impressao, fornecido pelo Dr. Fernando Lundgren em 07/11/2026; texto transcrito no index.html

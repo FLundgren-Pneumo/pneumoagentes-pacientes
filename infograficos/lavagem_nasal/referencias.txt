@@ -38,3 +38,8 @@ VERSAO 2.0.0 (28/09/2026)
 - Infografico em preto e branco fornecido pelo Dr. Fernando Lundgren. As fontes
   gerais citadas no rodape da imagem sao as indicadas pelo autor; o conteudo
   foi conferido com as referencias acima.
+
+VERSAO 2.1.0 (07/11/2026)
+- Novo infografico fornecido pelo Dr. Fernando Lundgren: tecnica em 5 passos
+  (inclui fechar a outra narina e inspirar de leve), orientacao sobre o
+  corticosteroide nasal depois da lavagem e quadro de erros a evitar.
