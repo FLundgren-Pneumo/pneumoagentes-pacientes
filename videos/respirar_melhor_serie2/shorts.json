@@ -5,7 +5,7 @@
   "playlist_url": "https://www.youtube.com/playlist?list=PLScWk2GVOcnE",
   "channel": "Dr Fernando Lundgren (Pneumologista)",
   "channel_id": "UCUki_OzOdXZKjgnpDQL6htA",
-  "count": 21,
+  "count": 22,
   "videos": [
     {
       "id": "06",
@@ -528,6 +528,35 @@
       ],
       "cover": "capas/27.jpg",
       "related": []
+    },
+    {
+      "id": "corticoide-nasal",
+      "youtube_id": "FO4f9co4Xjs",
+      "title": "Corticoide nasal: a direção do jato faz diferença",
+      "title_youtube": "Corticoide nasal: a direção do jato faz diferença #Shorts",
+      "url": "https://youtube.com/shorts/FO4f9co4Xjs",
+      "summary": "A direção do jato do corticoide nasal faz diferença. Assoe o nariz suavemente, agite o frasco e use a mão contrária à narina para apontar o bico para a lateral, longe do septo. Não incline a cabeça para trás; a técnica varia conforme o dispositivo — confira a bula e leve seu spray à consulta.",
+      "references": [
+        {
+          "text": "Avamys (furoato de fluticasona). Bula para o paciente. GSK Brasil",
+          "url": "https://br.gsk.com/media/w3nhpkwi/avamys.pdf"
+        },
+        {
+          "text": "Noex (budesonida). Bula para o paciente. Eurofarma",
+          "url": "https://eurofarma.com.br/produtos/bulas/patient/pt/bula-noex.pdf"
+        },
+        {
+          "text": "NHS. How and when to use fluticasone nasal spray and drops",
+          "url": "https://www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/how-and-when-to-use-fluticasone-nasal-spray-and-drops/"
+        }
+      ],
+      "cover": "capas/corticoide-nasal.jpg",
+      "related": [
+        {
+          "label": "Rinite",
+          "href": "../../infograficos/rinite/index.html"
+        }
+      ]
     }
   ]
 }
