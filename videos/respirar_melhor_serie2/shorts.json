@@ -1,0 +1,533 @@
+{
+  "series": "Respirar Melhor – série 2",
+  "page": "videos/respirar_melhor_serie2/index.html",
+  "playlist": "Respirar Melhor – Série educativa",
+  "playlist_url": "https://www.youtube.com/playlist?list=PLScWk2GVOcnE",
+  "channel": "Dr Fernando Lundgren (Pneumologista)",
+  "channel_id": "UCUki_OzOdXZKjgnpDQL6htA",
+  "count": 21,
+  "videos": [
+    {
+      "id": "06",
+      "youtube_id": "-G_uNk3W_M8",
+      "title": "Catarro todos os dias: o que observar na bronquiectasia?",
+      "title_youtube": "Catarro todos os dias: o que observar na bronquiectasia? #Shorts",
+      "url": "https://youtube.com/shorts/-G_uNk3W_M8",
+      "summary": "Na bronquiectasia, conhecer o padrão habitual do catarro ajuda a perceber mudanças. Aumento da quantidade, mudança de cor ou consistência, febre, cansaço ou mais falta de ar pedem contato com a equipe; sangue no catarro merece avaliação.",
+      "references": [
+        {
+          "text": "ERS / European Lung Foundation. Managing bronchiectasis in adults (2025 patient summary)",
+          "url": "https://europeanlung.org/en/information-hub/guidelines/managing-bronchiectasis-in-adults-2025/"
+        },
+        {
+          "text": "Chalmers JD et al. European Respiratory Society clinical practice guideline for the management of adult bronchiectasis. Eur Respir J 2025. DOI: 10.1183/13993003.01126-2025",
+          "url": "https://doi.org/10.1183/13993003.01126-2025"
+        }
+      ],
+      "cover": "capas/06.jpg",
+      "related": [
+        {
+          "label": "Bronquiectasia",
+          "href": "../../infograficos/bronquiectasia/index.html"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "youtube_id": "4G3Q1OVHnUM",
+      "title": "Parei de fumar: por que ainda trato a DPOC?",
+      "title_youtube": "Parei de fumar: por que ainda trato a DPOC? #Shorts",
+      "url": "https://youtube.com/shorts/4G3Q1OVHnUM",
+      "summary": "Parar de fumar é fundamental, mas não apaga todas as alterações do pulmão na DPOC. O tratamento, as vacinas e o acompanhamento continuam; não suspenda os remédios sozinho, mesmo se estiver melhor.",
+      "references": [
+        {
+          "text": "CDC. About COPD",
+          "url": "https://www.cdc.gov/copd/about/index.html"
+        },
+        {
+          "text": "NHS. Chronic obstructive pulmonary disease (COPD)",
+          "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/"
+        }
+      ],
+      "cover": "capas/07.jpg",
+      "related": [
+        {
+          "label": "DPOC",
+          "href": "../../infograficos/dpoc/index.html"
+        },
+        {
+          "label": "Tabagismo",
+          "href": "../../infograficos/tabagismo/index.html"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "youtube_id": "kz8SvjCy8TE",
+      "title": "Depois da pneumonia: quando voltar às atividades?",
+      "title_youtube": "Depois da pneumonia: quando voltar às atividades? #Shorts",
+      "url": "https://youtube.com/shorts/kz8SvjCy8TE",
+      "summary": "A recuperação da pneumonia varia: algumas pessoas melhoram rápido, outras precisam de várias semanas. Terminar o antibiótico não significa recuperação completa; retome atividades aos poucos e procure avaliação se a febre voltar ou a falta de ar piorar.",
+      "references": [
+        {
+          "text": "NHLBI/NIH. Pneumonia – Recovery",
+          "url": "https://www.nhlbi.nih.gov/health/pneumonia/recovery"
+        },
+        {
+          "text": "NHS. Pneumonia",
+          "url": "https://www.nhs.uk/conditions/pneumonia/"
+        }
+      ],
+      "cover": "capas/09.jpg",
+      "related": [
+        {
+          "label": "Pneumonia",
+          "href": "../../infograficos/pneumonia/index.html"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "youtube_id": "X1TrBvX5ChM",
+      "title": "Por que o nariz piora na hora de dormir?",
+      "title_youtube": "Por que o nariz piora na hora de dormir? #Shorts",
+      "url": "https://youtube.com/shorts/X1TrBvX5ChM",
+      "summary": "O nariz pode piorar na hora de dormir por contato com ácaros, mofo ou outros alérgenos no quarto. Cuidados com a cama e a umidade ajudam, mas descongestionantes usados por muitos dias podem piorar o entupimento.",
+      "references": [
+        {
+          "text": "NHS. Allergic rhinitis",
+          "url": "https://www.nhs.uk/conditions/allergic-rhinitis/"
+        },
+        {
+          "text": "NIEHS. Dust Mites and Cockroaches",
+          "url": "https://www.niehs.nih.gov/health/topics/agents/allergens/dustmites"
+        }
+      ],
+      "cover": "capas/10.jpg",
+      "related": [
+        {
+          "label": "Rinite",
+          "href": "../../infograficos/rinite/index.html"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "youtube_id": "w9C9hJll5BI",
+      "title": "Bombinhas diferentes: spray, pó seco e névoa",
+      "title_youtube": "Bombinhas diferentes: spray, pó seco e névoa #Shorts",
+      "url": "https://youtube.com/shorts/w9C9hJll5BI",
+      "summary": "Bombinhas diferentes não se usam do mesmo jeito: spray, pó seco e névoa suave pedem técnicas distintas. Leve seu inalador à consulta para conferir a técnica; o manual do seu modelo também é essencial.",
+      "references": [
+        {
+          "text": "Asthma + Lung UK. Choosing an inhaler device",
+          "url": "https://www.asthmaandlung.org.uk/healthcare-professionals/adult-asthma/choosing-inhaler-device"
+        },
+        {
+          "text": "Australian Asthma Handbook. Selecting inhalers for adults and adolescents",
+          "url": "https://www.asthmahandbook.org.au/management/adults-and-adolescents/principles-of-management/selecting-inhalers-for-adults-and-adolescents/"
+        }
+      ],
+      "cover": "capas/11.jpg",
+      "related": [
+        {
+          "label": "Técnica inalatória",
+          "href": "../../infograficos/tecnica_inalatoria/index.html"
+        },
+        {
+          "label": "Uso do espaçador",
+          "href": "../../infograficos/uso_do_espacador/index.html"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "youtube_id": "YDs1YascnBQ",
+      "title": "Tuberculose em casa: contatos precisam ser avaliados",
+      "title_youtube": "Tuberculose em casa: contatos precisam ser avaliados #Shorts",
+      "url": "https://youtube.com/shorts/YDs1YascnBQ",
+      "summary": "Quem mora com alguém com tuberculose precisa ser avaliado na unidade de saúde, mesmo sem tosse. Ter contato não significa estar doente; a equipe decide os exames e, se for o caso, o tratamento preventivo.",
+      "references": [
+        {
+          "text": "Ministério da Saúde. Tuberculose",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/t/tuberculose"
+        },
+        {
+          "text": "Ministério da Saúde. Manual de recomendações para o controle da tuberculose no Brasil, 2ª edição, 2019",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/manual_recomendacoes_controle_tuberculose_brasil_2_ed.pdf"
+        }
+      ],
+      "cover": "capas/12.jpg",
+      "related": [
+        {
+          "label": "Tuberculose pulmonar",
+          "href": "../../infograficos/tuberculose/index.html"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "youtube_id": "4frTHoRuHWs",
+      "title": "Por que a tosse piora quando eu deito?",
+      "title_youtube": "Por que a tosse piora quando eu deito? #Shorts",
+      "url": "https://youtube.com/shorts/4frTHoRuHWs",
+      "summary": "A tosse que piora ao deitar tem várias causas possíveis, como secreção do nariz, refluxo ou asma. O horário sozinho não revela o motivo; se a tosse persiste ou interrompe o sono, procure avaliação.",
+      "references": [
+        {
+          "text": "NHS. Cough",
+          "url": "https://www.nhs.uk/symptoms/cough/"
+        },
+        {
+          "text": "NHS. Asthma",
+          "url": "https://www.nhs.uk/conditions/asthma/"
+        },
+        {
+          "text": "NHS. Catarrh",
+          "url": "https://www.nhs.uk/conditions/catarrh/"
+        }
+      ],
+      "cover": "capas/13.jpg",
+      "related": [
+        {
+          "label": "Asma",
+          "href": "../../infograficos/asma/index.html"
+        },
+        {
+          "label": "Rinite",
+          "href": "../../infograficos/rinite/index.html"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "youtube_id": "24QqGGhoV1Q",
+      "title": "Asma pode começar na vida adulta?",
+      "title_youtube": "Asma pode começar na vida adulta? #Shorts",
+      "url": "https://youtube.com/shorts/24QqGGhoV1Q",
+      "summary": "A asma pode começar em qualquer idade, inclusive na vida adulta. Chiado, tosse recorrente, falta de ar e aperto no peito merecem investigação; não use a bombinha de outra pessoa como teste.",
+      "references": [
+        {
+          "text": "Ministério da Saúde. Linha de Cuidado – Asma (Sou Paciente)",
+          "url": "https://linhasdecuidado.saude.gov.br/portal/asma/sou-paciente/"
+        },
+        {
+          "text": "NHLBI/NIH. Asthma: Causes and Triggers",
+          "url": "https://www.nhlbi.nih.gov/health/asthma/causes"
+        }
+      ],
+      "cover": "capas/14.jpg",
+      "related": [
+        {
+          "label": "Asma",
+          "href": "../../infograficos/asma/index.html"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "youtube_id": "uOEwsy5cPbA",
+      "title": "Quem tem asma pode correr e fazer academia?",
+      "title_youtube": "Quem tem asma pode correr e fazer academia? #Shorts",
+      "url": "https://youtube.com/shorts/uOEwsy5cPbA",
+      "summary": "Em geral, quem tem asma pode correr e fazer academia quando a doença está controlada. Aqueça, aumente o esforço aos poucos e siga o plano combinado com a equipe se aparecer chiado, tosse ou falta de ar.",
+      "references": [
+        {
+          "text": "NHLBI/NIH. Living With Asthma",
+          "url": "https://www.nhlbi.nih.gov/health/asthma/living-with"
+        },
+        {
+          "text": "NHLBI/NIH. Asthma: Treatment and Action Plan",
+          "url": "https://www.nhlbi.nih.gov/health/asthma/treatment-action-plan"
+        }
+      ],
+      "cover": "capas/15.jpg",
+      "related": [
+        {
+          "label": "Asma",
+          "href": "../../infograficos/asma/index.html"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "youtube_id": "SlpZ6y3dBCQ",
+      "title": "Estou sem sintomas: posso parar a bombinha?",
+      "title_youtube": "Estou sem sintomas: posso parar a bombinha? #Shorts",
+      "url": "https://youtube.com/shorts/SlpZ6y3dBCQ",
+      "summary": "Ficar sem sintomas não significa que a asma acabou. A bombinha de controle trata a inflamação e não deve ser parada por conta própria; converse com sua equipe antes de qualquer mudança.",
+      "references": [
+        {
+          "text": "NHLBI/NIH. Asthma: Treatment and Action Plan",
+          "url": "https://www.nhlbi.nih.gov/health/asthma/treatment-action-plan"
+        },
+        {
+          "text": "Ministério da Saúde. Asma",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/asma/asma"
+        }
+      ],
+      "cover": "capas/16.jpg",
+      "related": [
+        {
+          "label": "Asma",
+          "href": "../../infograficos/asma/index.html"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "youtube_id": "EX5FXWYgGC4",
+      "title": "Bombinha de alívio toda hora? Sinal de alerta",
+      "title_youtube": "Bombinha de alívio toda hora? Sinal de alerta #Shorts",
+      "url": "https://youtube.com/shorts/EX5FXWYgGC4",
+      "summary": "Precisar da bombinha de alívio muitas vezes é um sinal de alerta, não um tratamento suficiente. Conte isso na consulta para rever o controle da asma e o plano de ação.",
+      "references": [
+        {
+          "text": "NHS. Asthma",
+          "url": "https://www.nhs.uk/conditions/asthma/"
+        },
+        {
+          "text": "NHLBI/NIH. Asthma: Treatment and Action Plan",
+          "url": "https://www.nhlbi.nih.gov/health/asthma/treatment-action-plan"
+        }
+      ],
+      "cover": "capas/17.jpg",
+      "related": [
+        {
+          "label": "Asma",
+          "href": "../../infograficos/asma/index.html"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "youtube_id": "LCmFj94Thok",
+      "title": "Espirros e coriza: alergia ou resfriado?",
+      "title_youtube": "Espirros e coriza: alergia ou resfriado? #Shorts",
+      "url": "https://youtube.com/shorts/LCmFj94Thok",
+      "summary": "Espirros e coriza podem ser alergia ou resfriado, e nenhuma pista isolada confirma a causa. Sintomas que persistem, se repetem ou atrapalham o sono pedem orientação; falta de ar exige atendimento.",
+      "references": [
+        {
+          "text": "NHS. Common cold",
+          "url": "https://www.nhs.uk/conditions/common-cold/"
+        },
+        {
+          "text": "NHS. Allergic rhinitis",
+          "url": "https://www.nhs.uk/conditions/allergic-rhinitis/"
+        }
+      ],
+      "cover": "capas/18.jpg",
+      "related": [
+        {
+          "label": "Rinite",
+          "href": "../../infograficos/rinite/index.html"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "youtube_id": "voYM-Duchdw",
+      "title": "Descongestionante nasal: cuidado com o efeito rebote",
+      "title_youtube": "Descongestionante nasal: cuidado com o efeito rebote #Shorts",
+      "url": "https://youtube.com/shorts/voYM-Duchdw",
+      "summary": "Alguns descongestionantes nasais, usados por tempo prolongado, causam efeito rebote: o nariz volta a entupir e aumenta a vontade de usar de novo. Confira o produto, respeite o tempo da bula e procure orientação para tratar a causa.",
+      "references": [
+        {
+          "text": "NHS. Decongestants",
+          "url": "https://www.nhs.uk/medicines/decongestants/"
+        }
+      ],
+      "cover": "capas/19.jpg",
+      "related": [
+        {
+          "label": "Rinite",
+          "href": "../../infograficos/rinite/index.html"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "youtube_id": "_57CQQgl-Cs",
+      "title": "Mofo no quarto pode piorar a respiração?",
+      "title_youtube": "Mofo no quarto pode piorar a respiração? #Shorts",
+      "url": "https://youtube.com/shorts/_57CQQgl-Cs",
+      "summary": "O mofo do quarto pode irritar as vias aéreas, causar alergia e agravar a asma em pessoas sensíveis. Controlar a umidade e corrigir vazamentos é essencial; pintar por cima não resolve a origem.",
+      "references": [
+        {
+          "text": "EPA. A Brief Guide to Mold, Moisture and Your Home",
+          "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
+        }
+      ],
+      "cover": "capas/20.jpg",
+      "related": [
+        {
+          "label": "Asma",
+          "href": "../../infograficos/asma/index.html"
+        },
+        {
+          "label": "Rinite",
+          "href": "../../infograficos/rinite/index.html"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "youtube_id": "AMwvhxN6WnY",
+      "title": "Umidificador ajuda sempre? Nem sempre",
+      "title_youtube": "Umidificador ajuda sempre? Nem sempre #Shorts",
+      "url": "https://youtube.com/shorts/AMwvhxN6WnY",
+      "summary": "Umidificador pode ajudar quando o ar está seco, mas o excesso de umidade também causa problemas. Troque a água diariamente, limpe o aparelho e interrompa o uso se provocar tosse ou desconforto.",
+      "references": [
+        {
+          "text": "EPA. Use and Care of Home Humidifiers",
+          "url": "https://www.epa.gov/indoor-air-quality-iaq/use-and-care-home-humidifiers"
+        }
+      ],
+      "cover": "capas/21.jpg",
+      "related": []
+    },
+    {
+      "id": "22",
+      "youtube_id": "RVXvZE3aRY0",
+      "title": "Tenho rinite: posso usar ar-condicionado?",
+      "title_youtube": "Tenho rinite: posso usar ar-condicionado? #Shorts",
+      "url": "https://youtube.com/shorts/RVXvZE3aRY0",
+      "summary": "Quem tem rinite não precisa, em geral, evitar o ar-condicionado. Ajuste uma temperatura confortável, evite jato direto no rosto e mantenha filtros e aparelho limpos conforme o fabricante.",
+      "references": [
+        {
+          "text": "NHS. Non-allergic rhinitis",
+          "url": "https://www.nhs.uk/conditions/non-allergic-rhinitis/"
+        },
+        {
+          "text": "EPA. Care for Your Air: A Guide to Indoor Air Quality",
+          "url": "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality"
+        }
+      ],
+      "cover": "capas/22.jpg",
+      "related": [
+        {
+          "label": "Rinite",
+          "href": "../../infograficos/rinite/index.html"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "youtube_id": "QhxyEOUV2PQ",
+      "title": "Vape é só vapor de água? Não",
+      "title_youtube": "Vape é só vapor de água? Não #Shorts",
+      "url": "https://youtube.com/shorts/QhxyEOUV2PQ",
+      "summary": "Vape não é só vapor de água: o que se inala é um aerossol que pode conter nicotina e outras substâncias nocivas. Evite expor quem está por perto, especialmente crianças, e procure ajuda se quiser parar.",
+      "references": [
+        {
+          "text": "CDC. About E-Cigarettes (Vapes)",
+          "url": "https://www.cdc.gov/tobacco/e-cigarettes/about.html"
+        },
+        {
+          "text": "Anvisa. Cigarro eletrônico / Dispositivos Eletrônicos para Fumar",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/tabaco/danos-a-saude/cigarro-eletronico"
+        }
+      ],
+      "cover": "capas/23.jpg",
+      "related": [
+        {
+          "label": "Tabagismo",
+          "href": "../../infograficos/tabagismo/index.html"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "youtube_id": "eAT3SXlrHPI",
+      "title": "Fumei por anos: ainda vale a pena parar?",
+      "title_youtube": "Fumei por anos: ainda vale a pena parar? #Shorts",
+      "url": "https://youtube.com/shorts/eAT3SXlrHPI",
+      "summary": "Parar de fumar vale a pena em qualquer idade e também ajuda quem já tem DPOC, embora não apague todo o dano nem substitua o tratamento. Procure apoio na unidade de saúde; se tentou e voltou a fumar, vale tentar de novo.",
+      "references": [
+        {
+          "text": "CDC. Benefits of Quitting Smoking",
+          "url": "https://www.cdc.gov/tobacco/about/benefits-of-quitting.html"
+        }
+      ],
+      "cover": "capas/24.jpg",
+      "related": [
+        {
+          "label": "Tabagismo",
+          "href": "../../infograficos/tabagismo/index.html"
+        },
+        {
+          "label": "DPOC",
+          "href": "../../infograficos/dpoc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "youtube_id": "GNt0vokrzOs",
+      "title": "Para que serve o exame de soprar (espirometria)?",
+      "title_youtube": "Para que serve o exame de soprar (espirometria)? #Shorts",
+      "url": "https://youtube.com/shorts/GNt0vokrzOs",
+      "summary": "A espirometria, o exame de soprar, mede quanto ar você consegue soltar e com que velocidade. Ela ajuda a investigar asma e DPOC, e o resultado se interpreta junto com os sintomas e a história de cada pessoa.",
+      "references": [
+        {
+          "text": "NHS. Spirometry",
+          "url": "https://www.nhs.uk/tests-and-treatments/spirometry/"
+        },
+        {
+          "text": "Cambridge University Hospitals NHS. Spirometry",
+          "url": "https://www.cuh.nhs.uk/patient-information/spirometry/"
+        }
+      ],
+      "cover": "capas/25.jpg",
+      "related": [
+        {
+          "label": "Asma",
+          "href": "../../infograficos/asma/index.html"
+        },
+        {
+          "label": "DPOC",
+          "href": "../../infograficos/dpoc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "youtube_id": "6Bu4VepihsA",
+      "title": "O oxímetro conta toda a história?",
+      "title_youtube": "O oxímetro conta toda a história? #Shorts",
+      "url": "https://youtube.com/shorts/6Bu4VepihsA",
+      "summary": "O oxímetro estima a oxigenação, mas pode errar e não substitui uma avaliação. Em falta de ar intensa, dor no peito, confusão ou lábios azulados, procure urgência mesmo que o número pareça bom.",
+      "references": [
+        {
+          "text": "FDA. Pulse Oximeter Basics",
+          "url": "https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics"
+        },
+        {
+          "text": "NHS. Shortness of breath",
+          "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+        }
+      ],
+      "cover": "capas/26.jpg",
+      "related": []
+    },
+    {
+      "id": "27",
+      "youtube_id": "-wX6yOgsNes",
+      "title": "Falta de ar: quando é urgência? Ligue 192",
+      "title_youtube": "Falta de ar: quando é urgência? Ligue 192 #Shorts",
+      "url": "https://youtube.com/shorts/-wX6yOgsNes",
+      "summary": "Falta de ar intensa, dificuldade para falar frases, dor ou peso no peito, lábios azulados, confusão ou desmaio pedem socorro imediato. No Brasil, ligue 192 (SAMU); não atrase o atendimento para procurar um oxímetro.",
+      "references": [
+        {
+          "text": "NHS. Shortness of breath",
+          "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+        },
+        {
+          "text": "Ministério da Saúde. SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/agosto/samu-192-saiba-quando-acionar-o-servico-de-urgencia"
+        }
+      ],
+      "cover": "capas/27.jpg",
+      "related": []
+    }
+  ]
+}
