@@ -1,0 +1,48 @@
+.inscreva-canal{
+  background:#fff;
+  border:1px solid #c7e2dc;
+  border-left:7px solid #0f766e;
+  border-radius:14px;
+  padding:16px 18px;
+  margin:18px 0;
+  display:flex;
+  flex-wrap:wrap;
+  gap:12px 16px;
+  align-items:center;
+}
+.inscreva-canal p{
+  margin:0;
+  flex:1 1 220px;
+  color:#12302c;
+  font-size:17px;
+  line-height:1.45;
+}
+.inscreva-canal p b{color:#0f4f4a}
+.btn-inscreva{
+  display:inline-block;
+  background:#0f766e;
+  color:#fff;
+  font-weight:800;
+  text-decoration:none;
+  padding:10px 18px;
+  border-radius:10px;
+  flex:none;
+}
+.btn-inscreva:hover{background:#0f5f59;color:#fff}
+.btn-inscreva:focus-visible{outline:3px solid #f5cf72;outline-offset:2px}
+.inscreva-canal.destaque{
+  background:linear-gradient(135deg,#0f4f4a,#16806f);
+  border:none;
+  padding:20px 22px;
+  margin:0 0 22px;
+}
+.inscreva-canal.destaque p{color:#e3f7f1;font-size:18px}
+.inscreva-canal.destaque p b{color:#fff}
+.inscreva-canal.destaque .btn-inscreva{
+  background:#c6f1e6;
+  color:#0f4f4a;
+}
+.inscreva-canal.destaque .btn-inscreva:hover{background:#fff;color:#0f4f4a}
+@media print{
+  .inscreva-canal{display:none!important}
+}
